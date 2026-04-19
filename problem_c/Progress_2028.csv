@@ -1,0 +1,92 @@
+NOC,Predicted_Gold,Predicted_Total,Gold_Lower,Gold_Upper,Total_Lower,Total_Upper,Gold_History,Total_History,Gold_Progress,Total_Progress,Gold_Trend,Total_Trend
+Albania,0,2,0,0,1,3,0,2,0,0,Decline,Decline
+Algeria,1,2,0,3,0,5,2,3,-1,-1,Decline,Decline
+Argentina,0,3,0,2,0,6,1,3,-1,0,Decline,Decline
+Armenia,0,3,0,0,2,4,0,4,0,-1,Decline,Decline
+Australia,11,37,6,16,26,48,18,53,-7,-16,Decline,Decline
+Austria,1,4,0,3,1,7,2,5,-1,-1,Decline,Decline
+Azerbaijan,2,5,0,4,2,8,2,7,0,-2,Decline,Decline
+Bahrain,1,2,1,1,1,3,2,4,-1,-2,Decline,Decline
+Belgium,2,10,0,7,0,21,3,10,-1,0,Decline,Decline
+Botswana,0,1,0,0,0,2,1,2,-1,-1,Decline,Decline
+Brazil,5,21,0,10,10,32,3,20,2,1,Progress,Progress
+Bulgaria,2,8,0,7,0,19,3,7,-1,1,Decline,Progress
+Cabo Verde,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Canada,6,22,1,11,11,33,9,27,-3,-5,Decline,Decline
+Chile,0,2,0,2,0,5,1,2,-1,0,Decline,Decline
+China,25,72,11,39,44,100,40,91,-15,-19,Decline,Decline
+Chinese Taipei,1,5,0,3,2,8,2,7,-1,-2,Decline,Decline
+Colombia,0,4,0,2,1,7,0,4,0,0,Decline,Decline
+Croatia,2,6,0,4,3,9,2,7,0,-1,Decline,Decline
+Cuba,2,10,0,7,0,21,2,9,0,1,Decline,Progress
+Cyprus,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Czech Republic,1,4,0,3,1,7,3,5,-2,-1,Decline,Decline
+Denmark,2,7,0,4,4,10,2,9,0,-2,Decline,Decline
+Dominica,0,1,0,0,0,2,1,1,-1,0,Decline,Decline
+Dominican Republic,0,2,0,0,1,3,1,3,-1,-1,Decline,Decline
+Ecuador,0,3,0,0,2,4,1,5,-1,-2,Decline,Decline
+Egypt,0,3,0,2,0,6,1,3,-1,0,Decline,Decline
+Ethiopia,1,4,0,3,1,7,1,4,0,0,Decline,Decline
+Fiji,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+France,14,51,9,19,40,62,16,64,-2,-13,Decline,Decline
+Georgia,2,5,0,4,2,8,3,7,-1,-2,Decline,Decline
+Germany,10,37,0,24,9,65,12,33,-2,4,Decline,Progress
+Great Britain,12,51,7,17,40,62,14,65,-2,-14,Decline,Decline
+Greece,1,9,0,6,0,20,1,8,0,1,Decline,Progress
+Grenada,0,2,0,0,1,3,0,2,0,0,Decline,Decline
+Guatemala,0,1,0,0,0,2,1,2,-1,-1,Decline,Decline
+Hong Kong,1,3,1,1,2,4,2,4,-1,-1,Decline,Decline
+Hungary,4,16,0,9,5,27,6,19,-2,-3,Decline,Decline
+India,0,5,0,2,2,8,0,6,0,-1,Decline,Decline
+Indonesia,1,2,0,3,0,5,2,3,-1,-1,Decline,Decline
+Iran,2,9,0,4,6,12,3,12,-1,-3,Decline,Decline
+Ireland,1,5,0,3,2,8,4,7,-3,-2,Decline,Decline
+Israel,0,4,0,0,3,5,1,7,-1,-3,Decline,Decline
+Italy,8,32,3,13,21,43,12,40,-4,-8,Decline,Decline
+Ivory Coast,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Jamaica,1,5,0,3,2,8,1,6,0,-1,Decline,Decline
+Japan,10,31,5,15,20,42,20,45,-10,-14,Decline,Decline
+Jordan,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Kazakhstan,1,6,0,3,3,9,1,7,0,-1,Decline,Decline
+Kenya,2,8,0,4,5,11,4,11,-2,-3,Decline,Decline
+Kosovo,0,2,0,0,1,3,0,2,0,0,Decline,Decline
+Kyrgyzstan,0,4,0,0,3,5,0,6,0,-2,Decline,Decline
+Lithuania,0,3,0,0,2,4,0,4,0,-1,Decline,Decline
+Malaysia,0,2,0,0,1,3,0,2,0,0,Decline,Decline
+Mexico,0,5,0,2,2,8,0,5,0,0,Decline,Decline
+Moldova,0,3,0,0,2,4,0,4,0,-1,Decline,Decline
+Mongolia,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Morocco,0,1,0,0,0,2,1,2,-1,-1,Decline,Decline
+Netherlands,7,23,2,12,12,34,15,34,-8,-11,Decline,Decline
+New Zealand,3,11,1,5,8,14,10,20,-7,-9,Decline,Decline
+North Korea,0,5,0,2,2,8,0,6,0,-1,Decline,Decline
+Norway,2,5,0,4,2,8,4,8,-2,-3,Decline,Decline
+Pakistan,0,1,0,2,0,4,1,1,-1,0,Decline,Decline
+Panama,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Peru,0,1,0,2,0,4,0,1,0,0,Decline,Decline
+Philippines,1,3,0,3,0,6,2,4,-1,-1,Decline,Decline
+Poland,1,10,0,6,0,21,1,10,0,0,Decline,Decline
+Portugal,0,4,0,2,1,7,1,4,-1,0,Decline,Decline
+Puerto Rico,0,2,0,0,1,3,0,2,0,0,Decline,Decline
+Qatar,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Refugee Olympic Team,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Romania,2,9,0,7,0,20,3,9,-1,0,Decline,Decline
+Saint Lucia,0,1,0,0,0,2,1,2,-1,-1,Decline,Decline
+Serbia,1,3,0,3,0,6,3,5,-2,-2,Decline,Decline
+Singapore,0,1,0,0,0,2,0,1,0,0,Decline,Decline
+Slovakia,0,1,0,2,0,4,0,1,0,0,Decline,Decline
+Slovenia,1,2,0,3,0,5,2,3,-1,-1,Decline,Decline
+South Africa,1,5,0,3,2,8,1,6,0,-1,Decline,Decline
+South Korea,7,23,2,12,12,34,13,32,-6,-9,Decline,Decline
+Spain,4,18,0,9,7,29,5,18,-1,0,Decline,Decline
+Sweden,2,10,0,7,0,21,4,11,-2,-1,Decline,Decline
+Switzerland,1,6,0,3,3,9,1,8,0,-2,Decline,Decline
+Tajikistan,0,2,0,0,1,3,0,3,0,-1,Decline,Decline
+Thailand,1,5,0,3,2,8,1,6,0,-1,Decline,Decline
+Tunisia,0,2,0,2,0,5,1,3,-1,-1,Decline,Decline
+Turkey,0,7,0,2,4,10,0,8,0,-1,Decline,Decline
+Uganda,0,2,0,2,0,5,1,2,-1,0,Decline,Decline
+Ukraine,2,12,0,7,1,23,3,12,-1,0,Decline,Decline
+United States,60,134,47,73,104,164,40,126,20,8,Progress,Progress
+Uzbekistan,2,6,0,4,3,9,8,13,-6,-7,Decline,Decline
+Zambia,0,1,0,0,0,2,0,1,0,0,Decline,Decline
