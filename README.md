@@ -1,6 +1,7 @@
 # Olympic Medal Prediction Models
 
 该项目围绕奥运会奖牌分布建模展开，目标是结合历史奖牌数据、运动员数据、主办国因素与国家特征变量，对未来奖牌表现进行预测，并分析不同国家在奖牌竞争中的潜在突破机会。
+<img width="1299" height="862" alt="image" src="https://github.com/user-attachments/assets/f50b3e6e-3a1f-4df8-a994-b92f7e73c9fe" />
 
 ## Project Goals
 
